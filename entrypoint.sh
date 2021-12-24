@@ -2,6 +2,6 @@
 
 nginx -g "daemon off
 
-while true; do git pull ; sleep 5; done
+while true; do git pull ; sleep 5; done 
 
 
