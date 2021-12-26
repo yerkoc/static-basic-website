@@ -15,3 +15,5 @@ Run rm -rf index.html
 #ENTRYPOINT  /entrypoint.sh
 COPY . .
 CMD ["nginx", "-g", "daemon off;"]
+
+
